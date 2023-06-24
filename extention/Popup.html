@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <!-- 
+    This HTML file serves as the popup page for the Youtube Transcript Summarizer Chrome extension. 
+    It includes a button that users can click to summarize the transcript of a YouTube video.
+    The file also contains styling to make the popup visually appealing.
+    -->
+    <head>
+        <title>Youtube Transcript Summarizer</title>
+        <style>
+            h1 {
+                text-align: center;
+            }
+            body {
+                width: max-content;
+                max-width: 800px;
+            }
+            button {
+                background-color: red;
+                color: white;
+                border-radius: 8px;
+                width: max-content;
+                height: max-content;
+                padding: 10px;
+                font-size: large;
+                margin: auto;
+                display: block;
+                border-color: coral;
+            }
+            button[disabled] {
+                background-color: lightcoral;
+                color: white;
+                border-radius: 8px;
+                width: max-content;
+                height: max-content;
+                padding: 10px;
+                font-size: large;
+                margin: auto;
+                display: block;
+                border-color: lightpink;
+            }
+            p {
+                font-size: medium;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>
+            Youtube Transcript Summarizer
+        </h1>
+        <!-- <label 
+            for="max_length">
+            Max Length:
+        </label>
+        <input 
+            type="number" 
+            id="max_length" 
+            name="max_length" 
+            value="150">
+        <br><br> -->
+        <button 
+            id="summarize" 
+            type="button">
+            Summarize
+        </button>
+        <br/>
+        <p 
+            id="output">
+        </p>
+        <script 
+            src="Popup.js">
+        </script>
+    </body>
+</html>

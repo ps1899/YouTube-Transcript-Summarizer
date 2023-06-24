@@ -1,0 +1,10 @@
+# Important dependencies
+
+flask >= 2.3.2
+youtube_transcript_api >= 0.6.1
+transformers >= 4.30.2
+sentencepiece >= 0.1.99
+sklearn >= 0.0.post5
+langdetect >= 1.0.9
+nltk >= 3.8.1
+numpy >= 1.23.3
