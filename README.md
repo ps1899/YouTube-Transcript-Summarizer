@@ -13,8 +13,8 @@ Youtube Transcript Summarizer is a Chrome Extension that allows users to get a s
 ## Installation
 - Clone this repository to your local machine:
   ```
-  git clone https://github.com/yourusername/youtube-transcript-summarizer.git
-  cd youtube-transcript-summarizer
+  git clone https://github.com/yourusername/YouTube-Transcript-Summarizer.git
+  cd YouTube-Transcript-Summarizer
   ```
 - Next, install the dependencies:
   ```
@@ -29,9 +29,9 @@ Youtube Transcript Summarizer is a Chrome Extension that allows users to get a s
     This will start a local server at ```http://127.0.0.1:5000/```. You may see a couple of warnings but it's all good and you may ignore it!
   - Load the extension into Google Chrome:
     - Open Google Chrome and go to ```chrome://extensions/```.
-    - Enable the "Developer mode" toggle in the top right corner.
-    - Click on "Load unpacked" and select the directory where you cloned this repository.
-  - You should now see the extension in the Chrome toolbar. Navigate to a YouTube video, click the extension icon, and click "Summarize" to see the summary of the video transcript.
+    - Enable the ```Developer mode``` toggle in the top right corner.
+    - Click on ```Load unpacked``` and select the directory where you cloned this repository.
+  - You should now see the extension loaded in the Chrome toolbar. Navigate to any YouTube video, click on the extension icon, and click "Summarize" to see the summary of the video   transcript.
   - All Done..!!
 
 
