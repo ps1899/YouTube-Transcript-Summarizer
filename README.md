@@ -33,7 +33,7 @@
     - Open Google Chrome and go to ```chrome://extensions/```.
     - Enable the ```Developer mode``` toggle in the top right corner.
     - Click on ```Load unpacked``` and select the directory where you cloned this repository.
-  - You should now see the extension loaded in the Chrome toolbar. Navigate to any YouTube video, click on the extension icon ![Alt text](extention/images/extension-icon.svg), and click "Summarize" to see the summary of the video   transcript.
+  - You should now see the extension loaded in the Chrome toolbar. Navigate to any YouTube video, click on the extension icon, and click "Summarize" to see the summary of the video   transcript.
   - All Done..!!
 
 
