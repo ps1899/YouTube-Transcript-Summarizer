@@ -12,11 +12,13 @@ Youtube Transcript Summarizer is a Chrome Extension that allows users to get a s
 
 ## Installation
 - Clone this repository to your local machine:
+- 
   ```
   git clone https://github.com/yourusername/YouTube-Transcript-Summarizer.git
   cd YouTube-Transcript-Summarizer
   ```
 - Next, install the dependencies:
+- 
   ```
   pip install -r Requirements.txt
   ```
