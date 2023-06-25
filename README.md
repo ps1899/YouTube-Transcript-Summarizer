@@ -38,7 +38,7 @@
 
 
 ## Contribution
-Contributions to this project are welcome! If you wish to contribute, please follow these steps:
+Contributions to this project are *welcome!* If you wish to contribute, please follow these steps:
 - Fork the repository.
 - Create a new branch for your features or fixes.
 - Make your changes and commit them.
