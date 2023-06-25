@@ -21,11 +21,12 @@ Youtube Transcript Summarizer is a Chrome Extension that allows users to get a s
   pip install -r Requirements.txt
   ```
 - To execute the Application locally:
-  - Start the Flask backend:
+  - Start the Flask backend on the terminal using the following command:
+    
     ```
     python TranscriptApp.py
     ```
-    This will start a local server at ```http://127.0.0.1:5000/```.
+    This will start a local server at ```http://127.0.0.1:5000/```. You may see a couple of warnings but it's all good and you may ignore it!
   - Load the extension into Google Chrome:
     - Open Google Chrome and go to ```chrome://extensions/```.
     - Enable the "Developer mode" toggle in the top right corner.
