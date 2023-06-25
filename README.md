@@ -6,7 +6,6 @@
 ![alt text](/extention/images/stages.png?raw=true)
 
 
-
 ## Features  
 - Summarizes YouTube video transcripts employing advanced NLP techniques.
 - Utilizes Latent Semantic Analysis (LSA) for extractive summarization of very long transcripts.
@@ -15,6 +14,9 @@
 - Adopts a language-agnostic approach and supports transcript summarization even for videos without subtitles.
 - Employs an asynchronous XMLHttpRequest to ensure non-blocking communication with the Flask Backend.
 
+
+## Output Screenshot
+![alt text](/extention/images/output.png?raw=true)
 
 ## Installation
 - Clone this repository to your local machine:
