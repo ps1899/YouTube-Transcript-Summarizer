@@ -3,7 +3,7 @@
 
 
 ## Project Stages
-![alt text](/extention/images/stages.png?raw=true){:height="50px" width="50px"}
+![alt text{:height="50px" width="50px"}](/extention/images/stages.png?raw=true)
 
 
 
